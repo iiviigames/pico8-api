@@ -22,7 +22,7 @@ PICO-8 is made by [Lexaloffle](https://www.lexaloffle.com/pico-8.php).
 
 ## Version Information
 
-+ The current Pico-8 version is : `0.2.6c` - (_Updated this on January 30, 2025_)
++ The current Pico-8 version is : `0.2.7` - (_Updated this on Monday, March 23, 2026_)
 + The current documentation on the API is at about is: ~`0.2.4` _and  not in a finished state!=_
 
 There were formatting changes that needed to take precedence before I could get to the new stuff, and a lot of missed information that needed to be added. Then, after nearly completing updates to the API, a literal rampage of updates were added to Pico-8, something [@zep](https://twitter.com/lexaloffle) has never done before. So, I had a lot to do, and I do this in my spare time - so I'm doing my best to keep this relevant and current! 
